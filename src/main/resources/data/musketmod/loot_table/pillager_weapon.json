@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "musketmod:pistol"
+          "name": "musketmod:musket"
         }
       ],
       "rolls": 1.0
